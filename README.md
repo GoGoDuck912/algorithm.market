@@ -2,7 +2,7 @@
 
 [Algorithm Market](http://algorithm.market) is an algorithm sharing platform. You can host, share, sell your algorithm alongside millions of other developers and companies.
 
-The website domain *algorithm.marker* is **on sale**.
+The website domain *algorithm.market* is **on sale**.
 
 ### Contact
 
