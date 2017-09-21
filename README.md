@@ -4,6 +4,6 @@
 
 The website domain *algorithm.market* is **on sale**.
 
-### Contact
+## Contact
 
-If you are interested about this domain. Feel free to contact [this email](mailto://qianyufeng718.foxmail)
+If you are interested about this domain. Feel free to contact [this email](mailto://qianyufeng718@foxmail.com)
